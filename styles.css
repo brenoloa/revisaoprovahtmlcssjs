@@ -1,0 +1,21 @@
+input {
+    width: 200px;
+    height: 65px;
+    font-size: xx-large;
+
+}
+
+button {
+    background-color: gray;
+    color: white;
+    height: 50px;
+    font-size: x-large;
+}
+
+
+.tela {
+    width: 500px;
+    height: 500px;
+    font-size: xx-large;
+    
+}
